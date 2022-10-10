@@ -1,3 +1,0 @@
-Prueba inicializar Git
-
-hola mundo!
